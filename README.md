@@ -8,4 +8,4 @@ If too many accounts are followed in a short time period, Instagram will stop yo
 
 Unfollow feature doesn't work, there is an element blocking the unfollow buttons. Will be patched in the future.
 
-Original implementation of this bot is here; https://towardsdatascience.com/increase-your-instagram-followers-with-a-simple-python-bot-fde048dce20d
+Original implementation of this bot is here: https://towardsdatascience.com/increase-your-instagram-followers-with-a-simple-python-bot-fde048dce20d
