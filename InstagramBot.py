@@ -49,7 +49,7 @@ amount = int(amount)
 
 if choice == 'unfollow':
 
-    for i in range(0, amount):
+    for i in range(0, round(amount/3)):
         x = 1
         while followed_all_time_ws["A" + str(x)].value is not None:  # begin at first empty row
             x = x + 1
